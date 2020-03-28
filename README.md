@@ -16,7 +16,7 @@ Node authentication using passport.js
 * express-session
 * morgan
 * passport-local
-
+* nodemon
 
 
   
