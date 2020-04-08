@@ -6,7 +6,7 @@
     "body-parser": "^1.19.0",
     "connect-flash": "^0.1.1",
     "cookie-parser": "^1.4.5",
-    "ejs": "^0.8.8",
+    "ejs": "^2.5.5",
     "express": "^4.17.1",
     "express-session": "^1.17.0",
     "logger": "0.0.1",
