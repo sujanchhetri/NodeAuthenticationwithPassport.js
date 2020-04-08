@@ -25,5 +25,10 @@ Node authentication using passport.js and node
 * To run `node server`
 * open `http://localhost:8000/` in any browser
 
+## Get the clientID & clientSecret
+* https://developers.facebook.com/
+* https://cloud.google.com/nodejs/getting-started/authenticate-users
+* https://developer.twitter.com/en
+
 
   
