@@ -86,7 +86,7 @@
 		<!-- GOOGLE INFORMATION -->
 		<div class="col-sm-6">
 			<div class="well">
-				<h3 class="text-danger"><span class="fa fa-google-plus"></span> Google+</h3>
+				<h3 class=""><img src="https://img.icons8.com/color/16/000000/google-logo.png"><span  class="fa fa-default"></span> Google</h3>
 
 				<% if (user.google.token) { %>
 					<p>
@@ -96,9 +96,9 @@
 						<strong>name</strong>: <%= user.google.name %>
 					</p>
 
-					<a href="/unlink/google" class="btn btn-danger">Unlink</a>
+					<a href="/unlink/google" class="btn btn-default">Unlink</a>
 				<% } else { %>
-					<a href="/connect/google" class="btn btn-danger">Connect Google</a>
+					<a href="/connect/google" class="btn btn-default">Connect Google</a>
 				<% } %>
 
 			</div>
