@@ -28,7 +28,7 @@ Node authentication using passport.js and node
 ## Get the clientID & clientSecret
 * https://developers.facebook.com/
 * https://cloud.google.com/nodejs/getting-started/authenticate-users
-* https://developer.twitter.com/en
+* https://developer.twitter.com/en/apps
 
 
   
