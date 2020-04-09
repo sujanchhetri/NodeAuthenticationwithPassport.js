@@ -26,7 +26,7 @@ Node authentication using passport.js and node
 * open `http://localhost:8000/` in any browser
 
 ## Get the clientID & clientSecret
-* https://developers.facebook.com/
+* https://developers.facebook.com/apps/
 * https://cloud.google.com/nodejs/getting-started/authenticate-users
 * https://developer.twitter.com/en/apps
 
