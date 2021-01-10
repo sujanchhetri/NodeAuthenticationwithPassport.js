@@ -11,15 +11,18 @@
     "express-session": "^1.17.0",
     "logger": "0.0.1",
     "mongoose": "^5.9.7",
-    "morgan": "^1.10.0",
     "passport": "^0.1.18",
     "passport-facebook": "^1.0.3",
     "passport-google-oauth": "^0.1.5",
     "passport-local": "^0.1.6",
     "passport-twitter": "^1.0.4"
   },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
+  },
   "scripts": {
-    "start": "node server.js"
+   "start": "nodemon server.js"
   },
   "description": "Oauth with facebook,Twitter and google",
   "version": "1.0.0",
